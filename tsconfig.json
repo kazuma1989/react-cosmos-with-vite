@@ -1,6 +1,6 @@
 // https://www.typescriptlang.org/ja/tsconfig
 {
-  "include": ["./src/**/*", "./cosmos/**/*"],
+  "include": ["./src/**/*"],
 
   "compilerOptions": {
     "isolatedModules": true,
