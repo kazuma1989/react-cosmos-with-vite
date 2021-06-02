@@ -13,7 +13,9 @@
   },
   "scripts": {
     "start": "vite serve",
-    "build": "vite build"
+    "build": "vite build",
+    "cosmos": "cosmos",
+    "start:renderer": "vite serve --port=8080"
   },
   "dependencies": {
     "react": "17.0.x",

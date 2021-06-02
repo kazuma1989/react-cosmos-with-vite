@@ -1,0 +1,7 @@
+{
+  "$schema": "./node_modules/react-cosmos/config.schema.json",
+
+  "staticPath": "public",
+  "userDepsFilePath": "cosmos/cosmos.userdeps.js",
+  "experimentalRendererUrl": "http://localhost:8080/_renderer.html"
+}
